@@ -1,1 +1,3 @@
 this is my text file for task 2
+
+this is local new text
